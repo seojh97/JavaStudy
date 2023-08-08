@@ -14,7 +14,7 @@ class Friend{
 		this.name = name;
 		this.phone = phone;
 		this.addr = addr;
-	}
+	} 
 	//멤버변수 전체를 출력하기 위한 멤버메서드
 	public void showAllData() {
 		System.out.println("이름:"+ name);
